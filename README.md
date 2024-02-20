@@ -1,7 +1,7 @@
 # pic-18
 microcontroller pic18f4620 drivers
 this drive contains 
-#for MKAL_layer
+for MKAL_layer
 gpio
 interrupt
 timer0
@@ -13,7 +13,7 @@ ccp1 and ccp2 (capture - compare - PWM)
 USART (unit synchronous asynchronous reciever transmitter)
 EEPROM 
 
-#for ECU_layer
+for ECU_layer
 led 
 button
 7_segment
